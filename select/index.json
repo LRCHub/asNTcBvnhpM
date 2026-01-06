@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "欲浴",
+  "base_artist": "一二三",
+  "createdAt": "2026-01-06T09:58:48.783791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "欲浴",
+      "artist": "一二三",
+      "has_synced": true,
+      "path": "select/01_欲浴_一二三.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "欲浴",
+      "artist": "一二三",
+      "has_synced": true,
+      "path": "select/02_欲浴_一二三.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "欲浴",
+      "artist": "一二三",
+      "has_synced": false,
+      "path": "select/pl_01_欲浴_一二三.txt"
+    }
+  ]
+}
